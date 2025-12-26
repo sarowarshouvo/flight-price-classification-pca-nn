@@ -117,8 +117,8 @@ Predictive Analytics
 December 2025
 
 ### 📎 Files
-- [Dataset: Data_Train.csv](https://github.com/user-attachments/files/24349383/Data_Train.csv)
-- [Jupyter Notebook](https://github.com/user-attachments/files/24349384/Final_Project_Predictive.ipynb)
-- [Final Project Report (PDF)](https://github.com/user-attachments/files/24349385/Final_Project_Predictive_L20609025.pdf)
+- Data_Train.csv
+- Final_Project_Predictive.ipynb
+- Final_Project_Predictive_L20609025.pdf
 
 
