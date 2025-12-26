@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 This repository contains the **Final Project** for  
-**MATH 5383 – Predictive Analytics**.
+**Predictive Analytics**.
 
 The project develops a complete classification framework for airline ticket prices by integrating **Principal Component Analysis (PCA)** with **neural network modeling**. A fully numerical feature matrix is constructed from raw flight data, reduced using PCA, reconstructed, and then used to train neural network classifiers to categorize flights as **Cheap** or **Expensive**.
 
