@@ -117,8 +117,9 @@ Predictive Analytics
 December 2025
 
 ### 📎 Files
-- Data_Train.csv
-- Final_Project_Predictive.ipynb
-- Final_Project_Predictive_L20609025.pdf
+- [Data_Train.csv](Data_Train.csv)
+- [Final_Project_Predictive.ipynb](Final_Project_Predictive.ipynb)
+- [Final_Project_Predictive_L20609025.pdf](Final_Project_Predictive_L20609025.pdf)
+
 
 
